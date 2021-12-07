@@ -3,7 +3,7 @@ Scripts needed to Implement Automated Literature Review
 
 Included in this repository are all the files needed to completed an Automated Literature Review
 
-The newly created Dataset containing citations pairs is linked.
+The newly created Dataset containing citations pairs is linked.https://www.kaggle.com/wesleyoquinn/binary-paper-abstract-citation
 
 The script to utlize the Simple Transformers Library for indentifying citation pairs given a draft abstract is included.
 
